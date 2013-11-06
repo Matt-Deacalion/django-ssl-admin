@@ -2,8 +2,11 @@ import unittest
 
 from django.http import HttpRequest, HttpResponseRedirect
 from django.test import override_settings
+from django.conf import settings
 
 from ssladmin.middleware import SSLAdmin
+
+settings.configure()
 
 
 class TestSSLAdminMiddleware(unittest.TestCase):
@@ -40,7 +43,4 @@ class TestSSLAdminMiddleware(unittest.TestCase):
         self.assertIsNone(response)
 
 if __name__ == '__main__':
-    from django.conf import settings
-    settings.configure()
-
     unittest.main()
