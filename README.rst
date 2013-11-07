@@ -14,7 +14,7 @@ And to enable you need to add it to MIDDLEWARE_CLASSES::
 
     MIDDLEWARE_CLASSES = (
         ...
-        'ssladmin',
+        'ssladmin.middleware.SSLAdmin',
         ....
     )
 
