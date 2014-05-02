@@ -1,0 +1,11 @@
+language: python
+
+python:
+  - 3.2
+  - 3.3
+
+install:
+  - pip install django
+  - pip install .
+
+script: python tests.py
