@@ -1,6 +1,8 @@
 ================
 django-ssl-admin
 ================
+.. image:: https://travis-ci.org/Matt-Stevens/django-ssl-admin.png?branch=master
+    :target: https://travis-ci.org/Matt-Stevens/django-ssl-admin
 
 Make the Django admin only available via https.
 
