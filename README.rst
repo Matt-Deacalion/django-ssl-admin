@@ -5,7 +5,7 @@ django-ssl-admin
     :target: https://travis-ci.org/Matt-Stevens/django-ssl-admin
     :alt: Build Status
 .. image:: https://coveralls.io/repos/Matt-Stevens/django-ssl-admin/badge.png?branch=master
-    :target: https://coveralls.io/r/Matt-Stevens/Pomodoro-Calculator?branch=master
+    :target: https://coveralls.io/r/Matt-Stevens/django-ssl-admin?branch=master
     :alt: Test Coverage
 .. image:: https://pypip.in/version/django-ssl-admin/badge.png
     :target: https://pypi.python.org/pypi/django-ssl-admin/
@@ -50,7 +50,7 @@ If you have a reverse proxy set up remember to let Django know how it can detect
 
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_SCHEME', 'https')
 
-Licence
+License
 -------
 Copyright © 2014 `Matt Deacalion Stevens`_, released under The `MIT License`_.
 
