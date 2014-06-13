@@ -1,11 +1,11 @@
 ================
 django-ssl-admin
 ================
-.. image:: https://travis-ci.org/Matt-Stevens/django-ssl-admin.png?branch=master
-    :target: https://travis-ci.org/Matt-Stevens/django-ssl-admin
+.. image:: https://travis-ci.org/Matt-Deacalion/django-ssl-admin.png?branch=master
+    :target: https://travis-ci.org/Matt-Deacalion/django-ssl-admin
     :alt: Build Status
-.. image:: https://coveralls.io/repos/Matt-Stevens/django-ssl-admin/badge.png?branch=master
-    :target: https://coveralls.io/r/Matt-Stevens/django-ssl-admin?branch=master
+.. image:: https://coveralls.io/repos/Matt-Deacalion/django-ssl-admin/badge.png?branch=master
+    :target: https://coveralls.io/r/Matt-Deacalion/django-ssl-admin?branch=master
     :alt: Test Coverage
 .. image:: https://pypip.in/version/django-ssl-admin/badge.png
     :target: https://pypi.python.org/pypi/django-ssl-admin/
