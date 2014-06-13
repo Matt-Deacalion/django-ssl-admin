@@ -3,6 +3,19 @@ django-ssl-admin
 ================
 .. image:: https://travis-ci.org/Matt-Stevens/django-ssl-admin.png?branch=master
     :target: https://travis-ci.org/Matt-Stevens/django-ssl-admin
+    :alt: Build Status
+.. image:: https://coveralls.io/repos/Matt-Stevens/django-ssl-admin/badge.png?branch=master
+    :target: https://coveralls.io/r/Matt-Stevens/Pomodoro-Calculator?branch=master
+    :alt: Test Coverage
+.. image:: https://pypip.in/version/django-ssl-admin/badge.png
+    :target: https://pypi.python.org/pypi/django-ssl-admin/
+    :alt: Latest Version
+.. image:: https://pypip.in/wheel/django-ssl-admin/badge.png
+    :target: https://pypi.python.org/pypi/django-ssl-admin/
+    :alt: Wheel Status
+.. image:: https://pypip.in/license/django-ssl-admin/badge.png
+    :target: https://pypi.python.org/pypi/django-ssl-admin/
+    :alt: License
 
 Make the Django admin only available via https.
 Only for the very latest versions of Django (>= 1.7).
