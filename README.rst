@@ -5,6 +5,7 @@ django-ssl-admin
     :target: https://travis-ci.org/Matt-Stevens/django-ssl-admin
 
 Make the Django admin only available via https.
+Only for the very latest versions of Django (>= 1.7).
 
 Installation
 ------------
