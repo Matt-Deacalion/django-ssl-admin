@@ -15,10 +15,10 @@ setup(
     include_package_data=True,
     test_suite='tests',
     tests_require=[
-        'Django>=1.6.2',
+        'Django>=1.6.5',
     ],
     install_requires=[
-        'Django>=1.6.2',
+        'Django>=1.6.5',
     ],
     classifiers=[
         'License :: OSI Approved :: MIT License',
