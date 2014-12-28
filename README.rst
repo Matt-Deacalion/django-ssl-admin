@@ -17,8 +17,7 @@ django-ssl-admin
     :target: https://pypi.python.org/pypi/django-ssl-admin/
     :alt: License
 
-Make the Django admin only available via https.
-Only for the very latest versions of Django (>= 1.7).
+Make the Django admin only available via https. For Django versions >= 1.7.
 
 Installation
 ------------
@@ -52,7 +51,7 @@ If you have a reverse proxy set up remember to let Django know how it can detect
 
 License
 -------
-Copyright © 2014 `Matt Deacalion Stevens`_, released under The `MIT License`_.
+Copyright © 2015 `Matt Deacalion Stevens`_, released under The `MIT License`_.
 
 .. _Matt Deacalion Stevens: http://dirtymonkey.co.uk
 .. _MIT License: http://deacalion.mit-license.org
